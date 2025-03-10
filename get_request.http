@@ -1,0 +1,2 @@
+GET http://localhost:8000/listSchools?lat=45.5941&lon=35.1376
+Content-Type: application/json

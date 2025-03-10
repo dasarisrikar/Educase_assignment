@@ -1,0 +1,11 @@
+HTTP/1.1 201
+Created X-Powered-By: Express 
+Content-Type: application/json; charset=utf-8 
+Content-Length: 52 
+ETag: W/"34-7IH/rYWClAE6aqiJyP6CMj3Sxng"
+Date: Mon, 10 Mar 2025 17:08:14 GMT 
+Connection: close 
+{   
+    "message": "School added successfully", 
+    "schoolId": 2 
+}

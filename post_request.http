@@ -1,0 +1,9 @@
+POST http://localhost:8000/addSchool
+Content-Type: application/json
+
+{
+  "name": "Parepally School",
+  "address": "XYZ Street, City",
+  "latitude": 25.5941,
+  "longitude": 85.1376
+}

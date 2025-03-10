@@ -1,0 +1,26 @@
+HTTP/1.1 200 OK
+X-Powered-By: Express
+Content-Type: application/json; charset=utf-8
+Content-Length: 261
+ETag: W/"105-O7QaAqP7X3r3MdB24WvZZHaFpmo"
+Date: Mon, 10 Mar 2025 17:10:33 GMT
+Connection: close
+
+[
+  {
+    "id": 2,
+    "name": "Dasari School",
+    "address": "ABC Street, CT",
+    "latitude": 45.5941,
+    "longitude": 55.1376,
+    "distance": 399.9999978027353
+  },
+  {
+    "id": 1,
+    "name": "Parepally School",
+    "address": "XYZ Street, City",
+    "latitude": 25.5941,
+    "longitude": 85.1376,
+    "distance": 2900.0003378906404
+  }
+]
