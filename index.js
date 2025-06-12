@@ -11,7 +11,7 @@ const db = mysql.createConnection({
     password: "", // Default XAMPP password (empty)
     database: "school_db"
 });
-
+let a=1;
 db.connect(err => {
     if (err) throw err;
     console.log("Connected to MySQL");
